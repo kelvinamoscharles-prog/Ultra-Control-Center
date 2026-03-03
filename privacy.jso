@@ -1,0 +1,33 @@
+{
+  "app_name": "Ultra Control Center",
+  "version": "1.0.0",
+  "last_updated": "2026-03-03",
+  "privacy_policy": {
+    "introduction": "Ultra Control Center inajali faragha yako. Sera hii inaelezea jinsi tunavyoshughulikia taarifa zako tunapotumia huduma za Accessibility na Notification Listener.",
+    "data_collection": {
+      "notifications": "App inasoma notifications ili kuzionyesha kwenye Control Center. Hatutumi meseji hizi kwenye server yoyote; data zote zinabaki ndani ya kifaa chako.",
+      "accessibility_service": "Tunatumia Accessibility Service ili kuonyesha interface ya Control Center juu ya apps nyingine na kuruhusu utendaji wa swipe.",
+      "web_browsing": "Historia ya browsing inayohifadhiwa ndani ya app inabaki kwenye storage ya kifaa chako pekee na inaweza kufutwa na mtumiaji wakati wowote."
+    },
+    "data_security": {
+      "encryption": "Data zinazohifadhiwa (kama history) hazisimbwa (encrypted) kwa mfumo wa ndani wa Android (SharedPreferences).",
+      "third_party_sharing": "Hatushiriki, hatuuzi, wala hatutoi taarifa zako kwa upande wa tatu (third parties)."
+    },
+    "user_permissions": [
+      {
+        "permission": "BIND_NOTIFICATION_LISTENER_SERVICE",
+        "purpose": "Kusoma na kuonyesha meseji zinazoingia ili kureply moja kwa moja."
+      },
+      {
+        "permission": "BIND_ACCESSIBILITY_SERVICE",
+        "purpose": "Kuwezesha muonekano wa Control Center na kuruhusu swipe gestures."
+      },
+      {
+        "permission": "SYSTEM_ALERT_WINDOW",
+        "purpose": "Kuonyesha speed ya mtandao na kioo cha huduma juu ya apps nyingine."
+      }
+    ],
+    "user_rights": "Mtumiaji ana haki ya kufuta data zote (Clear History/Notifs) au kusitisha huduma wakati wowote kupitia Android Settings.",
+    "contact": "Kama una swali kuhusu faragha, wasiliana nasi kupitia: support@futuretechnology.com"
+  }
+}
