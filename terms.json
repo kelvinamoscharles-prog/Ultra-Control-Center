@@ -1,0 +1,42 @@
+{
+  "app_name": "Ultra Control Center",
+  "document_type": "Terms of Service",
+  "last_updated": "2026-03-03",
+  "terms": [
+    {
+      "id": 1,
+      "title": "Kukubali Masharti",
+      "content": "Kwa kupakua na kutumia Ultra Control Center, unakubali kufuata masharti haya. Ikiwa hukubaliani na sehemu yoyote, usitumie huduma hii."
+    },
+    {
+      "id": 2,
+      "title": "Huduma za Accessibility",
+      "content": "App hii inatumia Accessibility Service ili kuonyesha Control Center juu ya apps nyingine. Mtumiaji anatoa ruhusa hii kwa hiari na anaweza kuizima wakati wowote kwenye settings za simu."
+    },
+    {
+      "id": 3,
+      "title": "Usomaji wa Notification",
+      "content": "Huduma ya Notification Listener inasoma meseji ili kukuwezesha kureply na kuziona kwenye kituo cha udhibiti. Data hizi hazihifadhiwi nje ya kifaa chako na hazitumwi popote."
+    },
+    {
+      "id": 4,
+      "title": "Matumizi Yanayokubalika",
+      "content": "Huruhusiwi kutumia app hii kwa madhumuni yoyote haramu, kuingilia mawasiliano ya watu wengine bila ruhusa, au kujaribu kudukua mfumo wa app."
+    },
+    {
+      "id": 5,
+      "title": "Ukomo wa Dhima (Limitation of Liability)",
+      "content": "Future Technology haitahusika na uharibifu wowote wa kifaa, kupotea kwa data, au matatizo ya kiufundi yanayotokana na matumizi yasiyo sahihi ya app hii."
+    },
+    {
+      "id": 6,
+      "title": "Mabadiliko ya Masharti",
+      "content": "Tuna haki ya kubadilisha masharti haya wakati wowote. Tutaendelea kutoa taarifa ndani ya app pindi mabadiliko makubwa yanapotokea."
+    }
+  ],
+  "contact_info": {
+    "developer": "Future Technology",
+    "email": "legal@futuretechnology.com",
+    "website": "https://futuretechnology.com"
+  }
+}
