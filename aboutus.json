@@ -1,0 +1,29 @@
+{
+  "company_name": "Future Technology",
+  "tagline": "Innovating the Future, Today.",
+  "founded_year": "2024",
+  "location": "Dar es Salaam, Tanzania",
+  "mission": "Kuleta suluhisho za kiteknolojia zinazorahisisha maisha ya kila siku ya watumiaji wa smartphone barani Afrika.",
+  "about_content": {
+    "who_we_are": "Sisi ni timu ya wabunifu na watengenezaji wa mifumo (Developers) tuliojikita katika kutengeneza apps zenye uwezo mkubwa na zinazojali mahitaji ya mtumiaji.",
+    "what_we_do": "Tunatengeneza vifaa (Tools) kama Ultra Control Center ili kuwapa watumiaji uwezo zaidi wa kudhibiti simu zao kwa urahisi, usalama, na haraka.",
+    "our_values": [
+      "Ubunifu (Innovation)",
+      "Faragha ya Mtumiaji (Privacy First)",
+      "Ubora wa Juu (High Performance)",
+      "Urahisi wa Matumizi (User Experience)"
+    ]
+  },
+  "social_links": {
+    "website": "https://futuretechnology.co.tz",
+    "email": "info@futuretechnology.com",
+    "instagram": "@future_tech_tz",
+    "github": "github.com/futuretech-dev"
+  },
+  "developer_team": [
+    {
+      "role": "Lead Developer & Founder",
+      "name": "Team Future Tech"
+    }
+  ]
+}
