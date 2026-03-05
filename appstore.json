@@ -6,13 +6,14 @@
     "icon": "https://i.ibb.co/KjbMBz0r/Screenshot-20260226-010907-Google.jpg",
     "screenshots": "https://i.ibb.co/5HjMhdW/Screenshot-1.jpg,https://i.ibb.co/XrC63Sd7/Screenshot-2.jpg"
   },
-  {
-    "name": "Ultra Whats",
-    "description": "Ultra Whats Pro (Uw) ni programu ya kisasa na ya kipekee inayokupa uwezo wa kutumia akaunti nyingi za WhatsApp kwa wakati mmoja kupitia mfumo wa Floating Widget.",
-    "url": "https://play.google.com/store/apps/details?id=com.super.vpn",
-    "icon": "https://i.ibb.co/LhrQTkxC/1772587353886.png",
-    "screenshots": "https://i.ibb.co/5HjMhdW/image.jpg,https://i.ibb.co/XrC63Sd7/image.jpg,https://i.ibb.co/1tJG8FKB/image.jpg,https://i.ibb.co/2Y61Xzyf/image.jpg,https://i.ibb.co/hFGjqmhQ/image.jpg"
-  },
+{
+  "name": "Ultra Whats",
+  "description": "Ultra Whats Pro (Uw) ni programu ya kisasa...",
+  "url": "https://play.google.com/store/apps/details?id=com.super.vpn",
+  "icon": "https://i.ibb.co/LhrQTkxC/1772587353886.png",
+  "screenshots": "https://i.ibb.co/35VGMCNZ/Screenshot-20260305-122841-Ultra-Whats.jpg"
+}
+,
   {
     "name": "Nexus Shell",
     "description": "Nexus Floating Media Hub ni mfumo wa kisasa wa kusimamia na kucheza maudhui ya kidijitali (Movies & Music) ukiwa ndani ya dirisha linaloandama (Floating Window).",
