@@ -1,0 +1,61 @@
+{
+  "apps": [
+    {
+      "id": "1",
+      "name": "Ultra Control Center",
+      "category": "Tools",
+      "size": "15 MB",
+      "rating": 4.8,
+      "downloads": "10K+",
+      "developer": "Future Tech",
+      "description": "Badili muonekano wa simu yako kwa Ultra Control Center – Kituo cha udhibiti chenye kasi, kivinjari cha web, na usimamizi wa meseji mahali pamoja.",
+      "icon": "https://raw.githubusercontent.com/[username]/[repo]/main/icons/control_center.png",
+      "apkUrl": "https://github.com/[username]/[repo]/releases/download/v1.0/ultra_control_center.apk",
+      "screenshots": [
+        "https://raw.githubusercontent.com/[username]/[repo]/main/screenshots/ss1.jpg",
+        "https://raw.githubusercontent.com/[username]/[repo]/main/screenshots/ss2.jpg",
+        "https://raw.githubusercontent.com/[username]/[repo]/main/screenshots/ss3.jpg"
+      ],
+      "hasAds": true,
+      "downloadProgress": 0
+    },
+    {
+      "id": "2",
+      "name": "Ultra Whats",
+      "category": "Social",
+      "size": "15 MB",
+      "rating": 4.8,
+      "downloads": "50K+",
+      "developer": "Future Tech",
+      "description": "WhatsApp mod yenye features nyingi zaidi. User interface nzuri na customizable.",
+      "icon": "https://raw.githubusercontent.com/[username]/[repo]/main/icons/ultra_whats.png",
+      "apkUrl": "https://github.com/[username]/[repo]/releases/download/v1.0/ultra_whats.apk",
+      "screenshots": [
+        "https://raw.githubusercontent.com/[username]/[repo]/main/screenshots/whats1.jpg",
+        "https://raw.githubusercontent.com/[username]/[repo]/main/screenshots/whats2.jpg"
+      ],
+      "hasAds": false,
+      "downloadProgress": 0
+    },
+    {
+      "id": "3",
+      "name": "Nexus Shell",
+      "category": "Tools",
+      "size": "15 MB",
+      "rating": 4.8,
+      "downloads": "5K+",
+      "developer": "Future Tech",
+      "description": "Terminal emulator na shell environment kwa Android. Inasaidia commands nyingi.",
+      "icon": "https://raw.githubusercontent.com/[username]/[repo]/main/icons/nexus_shell.png",
+      "apkUrl": "https://github.com/[username]/[repo]/releases/download/v1.0/nexus_shell.apk",
+      "screenshots": [
+        "https://raw.githubusercontent.com/[username]/[repo]/main/screenshots/nexus1.jpg",
+        "https://raw.githubusercontent.com/[username]/[repo]/main/screenshots/nexus2.jpg"
+      ],
+      "hasAds": true,
+      "downloadProgress": 0
+    }
+  ],
+  "categories": ["For you", "Top charts", "Children", "Tools", "Social", "Games"],
+  "featured": ["1", "2", "3"]
+}
